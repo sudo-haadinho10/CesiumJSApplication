@@ -33,4 +33,4 @@ viewer.camera.flyTo({
 });
 
 viewer.scene.screenSpaceCameraController.minimumZoomDistance = 50;
-
+}
